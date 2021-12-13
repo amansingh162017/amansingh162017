@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aman-singh-30553320a/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AmanSingh-yellow)](https://stackoverflow.com/users/17447303/aman-singh)
 
-I'm
-Full Stack Solution Architect.
-I have a wide range of skills that include back-end development using open source technologies (NodeJs, Java), design (working closely with designers), front-end development ( HTML5, CSS3, Javascript), Server Administrator(AWS),database(Mysql).
+
 
 
 ![Visitor Count](https://profile-counter.glitch.me/amansingh162017/count.svg)
