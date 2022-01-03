@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aman-singh-30553320a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-singh-30553320a/)](https://www.linkedin.com/in/aman-singh-30553320a/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-AmanSingh-yellow)](https://stackoverflow.com/users/17447303/aman-singh)
 
 
